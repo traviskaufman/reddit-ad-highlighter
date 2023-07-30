@@ -1,0 +1,20 @@
+# .gitignore
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules
+node_modules
+
+# Ignore log files
+*.log
+
+# Ignore IDE/Editor folders
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Ignore npm debug logs
+npm-debug.log*
